@@ -147,7 +147,7 @@ server.js           # Entry point
 
 ## 👤 Author
 
-Made by **[Your Name]** — feel free to reach out!
+Made by **Gabriel Franklin Barcellos** — feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/gabrielfranklinbarcellos)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ggfranklin)
